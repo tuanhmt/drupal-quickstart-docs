@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Drupal 9 Wiki](README.md)
+* [👋 PHP & Drupal](README.md)
 
 ## Prequisition
 
