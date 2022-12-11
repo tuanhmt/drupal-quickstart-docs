@@ -4,10 +4,10 @@ cover: >-
 coverY: 0
 ---
 
-# 👋 Drupal 9 Wiki
+# 👋 PHP & Drupal
 
 {% hint style="info" %}
-**About this wiki:** As a senior developer who has 10 years of working in web development, For a long time I have had the desire to write down all my knowledge as fundamental materials for the one who wants to work with PHP & Drupal.
+As a senior developer who has 10 years of working in web development, For a long time I have had the desire to write down all my knowledge as fundamental materials for the one who wants to work with PHP & Drupal.
 {% endhint %}
 
 For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
@@ -16,7 +16,7 @@ For **long-time team members**, this space will act as a reminder and allow you 
 
 <details>
 
-<summary>How to use it?</summary>
+<summary>Drupal</summary>
 
 This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
 
@@ -24,7 +24,7 @@ This space is designed to be read linearly, so start with our Vision, Mission & 
 
 <details>
 
-<summary>Contributing</summary>
+<summary>Docker</summary>
 
 If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
 
