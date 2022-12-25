@@ -16,7 +16,7 @@ For **new team members**, this space will be helpful during your first days with
 
 <summary>Requisition</summary>
 
-* [Install Docker & Docker Compose](prequisition/docker-and-k8s/)
+* [Install Docker & Docker Compose](prequisition/vision-mission-and-focus/)
 
 </details>
 

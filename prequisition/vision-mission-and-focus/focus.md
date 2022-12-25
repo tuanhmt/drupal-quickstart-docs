@@ -1,4 +1,4 @@
-# Focus
+# Manage container with Docker Compose
 
 ## Our Focus
 

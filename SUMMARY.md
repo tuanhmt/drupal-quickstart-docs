@@ -4,15 +4,15 @@
 
 ## Prequisition
 
-* [🖥 Docker & K8s](prequisition/docker-and-k8s/README.md)
-  * [Install Docker & Docker Compose](prequisition/docker-and-k8s/install-docker-and-docker-compose.md)
-  * [Build and run your own image container](prequisition/docker-and-k8s/build-and-run-your-own-image-container.md)
-  * [Manage container with Docker Compose](prequisition/docker-and-k8s/manage-container-with-docker-compose.md)
+* [🖥 Docker & K8s](prequisition/vision-mission-and-focus/README.md)
+  * [Install Docker & Docker Compose](prequisition/vision-mission-and-focus/vision.md)
+  * [Build and run your own image container](prequisition/vision-mission-and-focus/mission.md)
+  * [Manage container with Docker Compose](prequisition/vision-mission-and-focus/focus.md)
   * [Install make](prequisition/docker-and-k8s/install-make.md)
 
 ***
 
-* [💧 Drupal](drupal/README.md)
+* [💧 Drupal](prequisition/values.md)
   * [Page 1](drupal/page-1.md)
   * [Page 2](drupal/page-2.md)
 

@@ -1,4 +1,4 @@
-# Mission
+# Build and run your own image container
 
 ## Our Mission
 
